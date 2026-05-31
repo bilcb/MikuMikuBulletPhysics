@@ -1,0 +1,10 @@
+[submodule "src/bullet3"]
+	path = src/bullet3
+	url = https://github.com/bulletphysics/bullet3.git
+	branch = master
+[submodule "temp/reference/blender_mmd_tools"]
+	path = temp/reference/blender_mmd_tools
+	url = https://github.com/MMD-Blender/blender_mmd_tools.git
+[submodule "temp/reference/saba"]
+	path = temp/reference/saba
+	url = https://github.com/benikabocha/saba.git

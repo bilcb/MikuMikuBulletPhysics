@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "MikuMikuBulletPhysics"
+version = "0.0.1"
+name = "MikuMikuBulletPhysics"
+tagline = "C++ native MMD Bullet Physics for Blender"
+maintainer = "bilcb"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Animation", "Physics"]
